@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/natflox/static/css/main.0e6a37a5.css",
+    "main.css": "/natflox/static/css/main.db89313d.css",
     "main.js": "/natflox/static/js/main.96a61e28.js",
     "static/media/the-dark-knight.jpg": "/natflox/static/media/the-dark-knight.57b8bcd34cd9935800dd.jpg",
     "static/media/revenant.jpg": "/natflox/static/media/revenant.a57a4971293910bbfba7.jpg",
@@ -33,7 +33,6 @@
     "static/media/american-psycho.jpg": "/natflox/static/media/american-psycho.8466a6216a002019adfd.jpg",
     "static/media/shining.jpg": "/natflox/static/media/shining.ed81552c909c1ed476fd.jpg",
     "static/media/tsn.jpg": "/natflox/static/media/tsn.a6c098dee723fe3d3793.jpg",
-    "static/media/login-bg.jpg": "/natflox/static/media/login-bg.026f9748fea898671829.jpg",
     "static/media/godfather.jpg": "/natflox/static/media/godfather.3b69a4c01d3e572d1b8a.jpg",
     "static/media/cinco.jpg": "/natflox/static/media/cinco.f75bf538d5b26609d759.jpg",
     "static/media/tkr.jpg": "/natflox/static/media/tkr.1a84f613ebcb37ea4d35.jpg",
@@ -52,11 +51,11 @@
     "static/media/batman.jpg": "/natflox/static/media/batman.90de6b772c563db0f182.jpg",
     "static/media/logo-img.png": "/natflox/static/media/logo-img.7652ead9ae2d033c9d36.png",
     "index.html": "/natflox/index.html",
-    "main.0e6a37a5.css.map": "/natflox/static/css/main.0e6a37a5.css.map",
+    "main.db89313d.css.map": "/natflox/static/css/main.db89313d.css.map",
     "main.96a61e28.js.map": "/natflox/static/js/main.96a61e28.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e6a37a5.css",
+    "static/css/main.db89313d.css",
     "static/js/main.96a61e28.js"
   ]
 }
