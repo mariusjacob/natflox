@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/natflox/static/css/main.b43a29d6.css",
-    "main.js": "/natflox/static/js/main.ee551b8b.js",
+    "main.js": "/natflox/static/js/main.96a61e28.js",
     "static/media/the-dark-knight.jpg": "/natflox/static/media/the-dark-knight.57b8bcd34cd9935800dd.jpg",
     "static/media/revenant.jpg": "/natflox/static/media/revenant.a57a4971293910bbfba7.jpg",
     "static/media/tenet.jpg": "/natflox/static/media/tenet.0269703f7a08423db4e8.jpg",
@@ -53,10 +53,10 @@
     "static/media/logo-img.png": "/natflox/static/media/logo-img.7652ead9ae2d033c9d36.png",
     "index.html": "/natflox/index.html",
     "main.b43a29d6.css.map": "/natflox/static/css/main.b43a29d6.css.map",
-    "main.ee551b8b.js.map": "/natflox/static/js/main.ee551b8b.js.map"
+    "main.96a61e28.js.map": "/natflox/static/js/main.96a61e28.js.map"
   },
   "entrypoints": [
     "static/css/main.b43a29d6.css",
-    "static/js/main.ee551b8b.js"
+    "static/js/main.96a61e28.js"
   ]
 }
